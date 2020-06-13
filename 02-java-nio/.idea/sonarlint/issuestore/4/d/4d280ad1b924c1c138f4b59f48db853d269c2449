@@ -1,0 +1,13 @@
+
+E
+java:S1148o"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8žÆÇ³›.
+W
+java:S1141l"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8žÆÇ³›.
+F
+java:S1148“"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8žÆÇ³›.
+E
+java:S1148^"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8³ÙÐ³›.
+o
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰ñÞ¨8–ýØ³›.
+E
+java:S1148v"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8žÆÇ³›.
